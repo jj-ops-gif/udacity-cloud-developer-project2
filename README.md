@@ -22,9 +22,9 @@ To complete this project, you will need to:
 
 ## AWS Elastic Beanstalk’s CLI and Console Dashboard
 
-* eb init a new application
-* eb create a new environment to deploy your image-filter service 
-* eb deploy to push changes
+* eb init: initiate a new application
+* eb create: create a new environment to deploy your image-filter service 
+* eb deploy: push changes
 
 ## Testing
 
